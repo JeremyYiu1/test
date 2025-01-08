@@ -7,3 +7,4 @@ import (
 func main() {
 	fmt.Printf("Welcome to programming in Go!\n")
 }
+#botty hool
